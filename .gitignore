@@ -1,5 +1,11 @@
 *.class
 *.log
+# Temporary files
+reduced.txt
+scala-2.9.2.tgz
+scala-2.9.2
+spark-0.6.1-sources.tgz
+spark-0.6.1
 
 # sbt specific
 dist/*
