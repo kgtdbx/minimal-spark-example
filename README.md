@@ -1,6 +1,6 @@
 minimal-spark-example
 =====================
-Repository for a minimal Spark example with no other dependencies than Java, Bash and wget.
+Repository for a minimal Spark (See http://www.spark-project.org/ ) example with no other dependencies than Java, Bash and wget.
 
 ### Note:
 fakedata.txt contains text from: http://en.wikipedia.org/wiki/List_of_real-time_operating_systems
