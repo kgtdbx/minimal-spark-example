@@ -1,12 +1,11 @@
 minimal-spark-example
 =====================
+Repository for a minimal Spark example with no other dependencies than Java and Bash.
 
-# Repository for a minimal Spark example with no other dependencies than Java and Bash.
-
-## Note:
+### Note:
 fakedata.txt contains text from: http://en.wikipedia.org/wiki/List_of_real-time_operating_systems
 
-## Simple usage:
+### Simple usage:
 
 > git clone git://github.com/lagerspetz/minimal-spark-example.git
 > cd minimal-spark
@@ -26,6 +25,6 @@ like:
 > (REAL/32,(Proprietaryetary,1))
 > (RTLinux,(GNU,1))
 
-## Notes
+### Notes
 After get-spark.sh, you can safely delete spark-0.6.1\*. You will still be able to run the project.
 
