@@ -1,0 +1,212 @@
+Abassi proprietary closed embedded active AVR32, ATmega, Coldfire, Cortex-A9, Cortex-M0, Cortex-M3,
+Cortex-M4, MSP430, PIC32, TMS320C2000, 80251, 8051 [1]
+AMOS Proprietary  ? commercial closed 680x0, 683xx, x86 via emulation [2]
+AMX RTOS  ?  ? embedded  ? 680x0, 683xx, ARM, ColdFire, MIPS32, PowerPC [3]
+ARTOS (Locamation) proprietary  ? embedded              active x86 [4]
+ARTOS (Robotu) proprietary  ? embedded active ARMM9+ [5]
+Atomthreads BSD open source embedded active AVR, STM8 [683xx]
+AVIX proprietary closed embedded active Atmel AT91SAM3(U/S), Energy Micro EFM32, NXP LPC1300,
+LPC1700, ST Micro STM32, Texas Instruments LM3S, Toshiba TMPM330, Microchip PIC32MX, Microchip
+PIC24F, PIC24H, dsPIC30F & dsPIC33F [7]
+BeRTOS modified GNU GPL open source             embedded active DSP56K, I196, IA32, ARM, AVR [8]
+BRTOS MIT License open source embedded active Freescale Coldfire V1, Freescale HCS08, Texas
+Instruments MSP430 and Atmel ATMEGA328/128 (Port for PIC18 in development [9]
+CapROS GNU GPL open source embedded active IA32, ARM9 [10]
+ChibiOS/RT Modified GNU GPL or proprietary open source embedded, small          footprint active
+x86, ARM7, ARM9, Cortex-M0, Cortex-M3, Cortex-M4, PowerPCwerPC e200z, STM8, AVR, MSP430, Coldfire,
+H8S [11] [12]
+ChorusOS  ?              ?  ?  ? SPARC, x86, PowerPC [13]
+ChronOS GNU GPL open source research, general purpose active x86, ARM [14]
+CMX RTOS proprietary                     ? embedded active IA32, ARM, AVR, H8, PIC, 8051 [15]
+cocoOS BSD                      open source embedded active AVR, MSP430 [16]
+Concurrent CP/M Proprietaryietary closed (meanwhile: open source) general purpose defunct 8080, Z80,
+8086 Digital Research
+Concurrent DOS proprietary closed general purpose defunct 8086, 286, 386, 68000, (also 8080/Z80 in
+dual-Proprietaryietarycessor variants) Digital Research
+Contiki BSD open source embedded                active MSP430, AVR [17]
+COS proprietary closed process control dsPIC33Fefunct GEC 4000 series  ?
+CooCox CoOS BSD open source general purposeose active STM32, NXP LPC1000, TI LM3S8962,Nuvoton
+NU1xx,Holtek HT32       [18]
+Deos proprietary closed safety critical active x86, PowerPC,closed PowerQUICC [19]
+DioneOS proprietary available for licensee embedded active Texas Instruments MSP430, MSP430x [20]
+DNIX proprietary controllosed general purpose defunct 68000  ?
+GEC DOS proprietary closed process control defunct GEC 4000 series  ?
+DrRtos free? open?                              ? active? ARM7 [21]
+DSPnano RTOS Open Source and Commercial Open sourceource MCU, DSC, DSP SoC active R8C, M16C, PIC24,
+dsPIC33 [22]
+DSOS                 ?  ?  ? defunct TI-980A minicomputer  ?
+eCos modified GNU GPL                               open source general purpose active
+ARM/XScale/Cortex-M, CalmRISC, 680x0000/Coldfire, fr30, FR-V, H8, IA32, MIPS, MN10300, OpenRISC,
+PowerPC, SPARC, SuperH, V8xx [23]
+eCosPro modified GNU GPL and eCosPro license open Sourcee with non-free portions general purpose
+active ARM/XScale/Cortex-M,ARM CalmRISC, 68000/Coldfire, fr30, FR-V, H8, IA32, MIPS, MN10300, NIOS2,
+OpenRISC, PowerPC, SPARC, SuperH, V8xx [24]
+embOS proprietary closed embedded active 8/16/32 bit processors [25]
+Embox BSD License open source embedded active ARM, LEON, MicroBlaze, x86 [26]
+ERIKA Enterprise GPL+Linking exception Open Source embedded active ARM7, ARM Cortexx MX, Hitachi H8,
+Altera Nios2, Microchip dsPIC (including dsPIC30, dsPIC33, and PIC24), Microchip PIC32, ST
+Microelectronics ST10, Infineon C167, Infineon Tricore, Freescale PPC e200 (MPC 56xx) (including PPC
+e200 z0, z6, z7), Freescale S12XS, EnSilica eSi-RISC, Atmel AVR5, Lattice Mico32, TI MSP430, Renesas
+RX200 [27]
+EROS GPL OpenRISCpen source experimental
+research use dormant IA32 [28]
+Femto OS GPLLv3 open source embedded active AVR [29]
+FlexOS proprietary closeded general purpose defunct 186, 286, 386, V60, V70, 68000 Digital
+FreeOSEK GPLv3 open source embedded active Posix, withindows, ARM7 [30]
+FreeRTOS modified GNU GPL open source embedded Atmelctive ARM, AVR, AVR32, Freescale ColdFire,
+HCS12, IA32, Cortex-M3, Mico32roBlaze, MSP430, PIC, PIC32, Renesas H8/S, 8052, STM32 [31]
+FunkOS Modifieddified Sleepycat license open source embedded active AVR, MSP430, C167ortex-M3 [32]
+Fusion RTOS free  ? semi-general purpose active ARM, Blackfin, StarCore, DSP 56800E 
+HeartOS proprietary closed safety critical active x86, PowerPC, PowerQUICC [33]
+Helium free  ?  ?                        ? Open-Source RTOS for HCS08 & AVR MCUs [34]
+HP-1000/RTE  ?  ?                       ?  ?  ? [35]
+Hybridthreads  ? open source FPGA active Xilinx Virtex-II Pro ML310, Xilinx Virtex-II Pro XUP [36]
+IBM 4680 OS Proprietaryietarycessorary closed general purpose defunct 286 IBM (DR Concurrent DOS 286
+IBM 4690 OS proprietary closed general purpose active                   286, 386 IBM (DR FlexOS
+286/386 derivative)
+INTEGRITY proprietary closed embedded active ARM, XScale, Blackfin, Freescale ColdFire, MIPS,
+PowerPC, x86 [37]
+IntervalZero RTX proprietary closed MS Windows              extension active x86 [38]
+ITRON, µITRON varies varies embedded                            active ARM, MIPS, x86, and others
+[39], [40]
+ioRTOS proprietary closedsed embedded, safety critical active TI TMS320 Families (x2812, c6416) [41]
+iRTOS GNU LGPL open source embedded active AVR, ARM7 [42]
+KolibriOS GNU GPL open source embeddable active x86 [43]
+LynxOS proprietary source code available embedded active Motorola 68010,available x86/IA-32, ARM,
+Freescale PowerPC, PowerPC 970, LEON3 [44]
+MaRTE OS        GNU GPL open source embedded active IA-32 [45]
+MAX II,IV proprietary  ?  ?  ? Modcomp II,IV,...  ?
+MenuetOS  ?  ?  ?  ?  ? [456]
+Micrium µC/OS-II proprietary Available under license embedded availablective ARM7/9/11/Cortex M1/3,
+AVR, HC11/12/S12, Coldfire, Blackfin, Micriumroblaze, NIOS, 8051, x86, Win32, H8S, M16C, M32C, MIPS,
+68000, PIC24/dsPIC33/PIC32, MSP430, PowerPC, SH, StarCore, STM32, … [47]
+Micrium µC/OS-III Proprietaryietarycessorary Available under license embedded active
+ARM7/9/11/Cortex M1/3, AVR, HC11/12/S12, Coldfire, Blackfin, Microblaze, NIOS, 8051, x86, Win32,
+H8S, M16C, M32C, MIPS, 68000, PIC24/dsPIC33/PIC32, MSP430, PowerPC, SH, StarCore, STM32, … [48]
+Milos GNU GPL open source embeddeded active Cortex-M3 [49]
+Microsoft Invisible Computing (MMLite) processorsprietary open source embedded active Arm7, Arm9,
+i386, h8, mips, Trimedia, eCog1 [50]
+MP/M proprietary closed (meanwhile: open source)            general purpose defunct 8080, Z80, 8086
+Digital Research
+MQX Proprietaryietary complimentary source code available embedded active Freescale Power, ColdFire,
+Kinetis Cortex ARM, List of Freescale products, [51]
+MERT  ?  ?  ? inactive PDP-11  ?
+Multiuser DOS proprietary closed general-purpose defunct 386 Digital Research/Novell, Concurrent
+Controls/Datapac/IMS (see REAL/32)
+Nano-RK mixed open source embeddableded active AVR, MSP430 [52]
+Neutrino proprietary some source code                   provided microkernel active ARM, MIPS, PPC,
+SH, x86, XScale [53]
+Novellkia OS  ?  ? embedded GSM devices  ? ARM (Epoc32)?
+Nucleus OS Prooprietary source code provided embedded active ARM (Cortex-M3, M4,                R4,
+R4F, A8, A9, ARM7, ARM9, ARM11), PowerPC, MIPS32, MIPS16e, microMIPS, Coldfire, SuperH [54]
+NuttX BSD open source embedded, small footprint                     active Linux user mode, ARM7,
+ARM9, Cortex-M3, 8052, SH-1, Renesas MC16C/26, Zilog Z16F, Zilog eZ80 Acclaim!, Zilog Z8Encore!,
+Z80, partial ports for MIPS [55]
+On Time RTOS-32 proprietary source code available embedded active 362/64-bit x86 [56]
+OS20 proprietary closed embedded (STB) maintenance only ST20  ?
+OS21 proprietary source code provided embedded (ST10B) active ST40/SH4,ST200,ARM  ?
+OS4000 proprietary closed processors control maintenance only GEC 4000 series  ?
+OPENRTOS proprietary                    source code available embedded active Same as FreeRTOS [57]
+OSA BSDD open source embedded active PIC10-PIC24, AVR 8bit, STM8 [58]
+OSE proprietary closed general purpose active ARM, PowerPC, MIPS, IXP2400, TI OMAP, … [59]
+OS-9 proprietary available to customers embeddableedded active ARM/strongARM, MIPS, PowerPC, SuperH,
+x86/Pentium, XSCALE, Motorola 6809, Motorola 68000-series [60]
+OSEK n/a specification          embedded active engine control units [61]
+Phar Lap ETS  ?  ?  ?                            ?  ?  ?
+PaulOS GNU GPL open source embedded  ?  ? [62]
+PICOS18 GNU GPL open source embedded  ? PIC18 [63]
+picoOS Modified BSDD License open source embedded discontinued 6502, 80x86, ARM7, AVR,
+PowerPC [64]
+Phoenix-RTOS GNU GPL open source embedded  ? ARM7, Xilinx86, PowerPC [65]
+PikeOS proprietary available to customers safety coderitical, virtualization active PPC, x86, ARM,
+MIPS, SPARC/Leon, SuperH [66]
+Portos proprietary source code provided embedded, small footprint active DSP/BIOS (ARM soon) [67]
+POK BSD open source embedded active x86, PowerPC, SPARC [68]
+PowerTV proprietary  ?  ?  ?                                 ? [69]
+Prex BSD open source microkernel active ARM, IA32 [70]
+Portosrotothreads BSD open source general purpose active Architecture includingdependent [71]
+pSOS proprietary  ?  ? discontinued Motorola 680x,71 Motorola 68000  ?
+QNX mixed  ? general purpose active IA32, MIPS, PowerPC, SH-4, ARM, StrongARM, XScale [72]
+Q-Kernel proprietary Availableailable to customers embedded active PIC-30, PIC-24, dsPIC, PIC32MX
+QP Open Source and Commercial Open Source MCU, DSC, DSP SoC Architecturective ARM7/9, ARM
+Cortex-M3/Cortex-M0, MSP430, TMS320C28x, AVR, AVRXmega, ColdFire, 68HC08, M16C/R8C, H8, 8051, 80251,
+PIC18, PIC24/dsPIC33, Nios II, PSoC1 [74]
+RDOS proprietary  ? general purpose defunct Data General Nova, Data General Eclipse n/a
+ReaGOS proprietary closed, available with licenseense embedded active x86, ATmega, ARM, portable
+REAL/32 Proprietaryetary closed general-purpose active 386 IMS (Multiuser DOS derivativeive)
+Real-time Linux (CONFIG_RT_PREEMPT) GPLv2 open source general portableurpose active same as Linux
+[76] wiki
+REX OS proprietary closed, availablevailable with license embedded inactive ARM ja:REX OS
+RMX  ?  ?                            ? active 8080, 8086, 80386 or higher [77]
+RSX-11 proprietary  ?                        ? historic PDP-11 n/a
+RT-11 proprietary  ? general purpose defunctnct PDP-11 n/a
+RTAI GNU GPL open source general purpose active Xilinx86, ARM [78]
+RTEMS modified GNU GPL open source embedded active availableRM, Blackfin, ColdFire, TI C3x/C4x,
+H8/300, x86, 68k, MIPS, Nios II, PowerPC, SuperH, SPARC, ERC32, LEON, Mongoose-V [79]
+rt-kernel mixed availableilable to customers embedded active ARM7, ARM9, Cortex-M3, Cortex-A8,
+Blackfin, PowerPC, Windows (simulation) [80]
+RTLinux GNU GPL open            source general purpose inactive same as Linux [81]
+RT-Thread GPLv2 open source embedded active ARM, IA-32, AVR32,M16C, MIPS [82][83]AVR32
+RTXC Quadros proprietary source available embedded active [[ARM asrchitecture|ARM -
+Atmel/Freescale/NXP/ST/TI]], Blackfin, Coldfire/68K, PowerPC, StarCore, TI/Luminary Stellaris, TI
+OMAP, XScale [84]
+SafeRTOS        proprietary source code & Design Assurance Pack available embedded, SafeRTOSafety
+Critical active Same as FreeRTOS [85]
+Salvo proprietary source available embedded active 8051, ARM ARM7TDMI and Cortex-M3, Atmel AVR and
+Mega AVR, Epson S1C17, Motorola M68HC11, TI MSP430, PICmicro 12/14000/16/17/18, PIC24, dsPIC, PIC32,
+TMS320C2000 [86]
+SCIOPTA proprietary closededd, source available embedded, safety related active ARM, Cortex-M0,
+Cortex-M3, Cortex-M4, Cortex-R4, Cortex-A9, XScale, Renesas RX, PowerPC, ColdFire, HCS12, M16C,
+Windows(simulation) [87]
+scmRTOS free open Sourcee embedded active ARM, Cortex-M3, Blackfin, MSP430, AVR [88]
+SDPOS                   GNU LGPL open source embedded active ARM, Cortex-M3, Blackfin, PIC188,
+PIC24, i386 win32/linux synthetic targets [89]
+SHaRK GNU GPL OPENRTOS source  ?  ?  ? [90]
+SimpleAVROS GPLv3 open source embedded Acclaimtive, beta AVR only n/a
+SINTRAN III  ?  ?  ?  ? Norsk Data Computingters n/a
+Sirius RTOS proprietary available under license embedded                    active x86, i386+, ARM,
+68k, 8051, ... [91]
+SMX RTOS proprietary availableilableailable under license embedded active ARM, Cortex, ColdFire,
+PowerPC, x86, ... [92]
+SOOS Project free open source embedded active, betaa H8/300 [93]
+Symbian OS Eclipse Public License open source embeddableed active ARM [94]
+SYS/BIOS BSD License open source embedded activeive Primarily Texas Instruments: MSP430, C2000,
+C5000, C6000 and their ARM families (Cortex M3/4F, Cortex R4, Cortex A8, Cortex A15) [95]
+targetslon DSP RTOS proprietary  ? embedded DSP active TMS320 [96]
+TargetOS proprietary available to customers embedded  ? ARM, Freescale                  ColdFire,
+Freescale PowerPC [97]
+T-Kernel free under T-License Sourcee available embedded RTOS active ARM/MIPS/SH/others [98]
+THEOS  ?                     ?  ?  ?  ? [99]
+ThreadX proprietary available to customers  ?                               active ARC, ARM/Thumb,
+AVR32, BlackFin, ColdFire/68K, H8/300H, Luminary Micro Stellaris, M-CORE, MicroBlaze, PIC24/dsPIC,
+PIC32, MIPS, V8xx, Nios II, PowerPC, SH, SHARC, StarCore, STM32, StrongARM, TMS320C54x, TMS320C6x,
+x86/x386, XScale, Xtensa/Diamond, ZSP [100]
+Trampoline Operating System (OSEK and AUTOSAR) GNU LGPL open source embedded active AVR, H8/3000H,
+POSIX, NEC V850e, ARM7, Infineon C166, HCS12 or PowerPC [101]
+TNKernel BSD open source embedded active ARM, PIC24/dsPIC, PIC32, HCS0808 [102]
+Transaction Processing Facility proprietary  ? general purposepose active IBM System/360 derivatives
+TRON project open? microkernelxed mixed active any: not an implementation, but a specification
+TUD:OS GNU GPL open source  ? active ARM, IA-32, X86-64 [105]ARM
+Unison RTOS Open Source and Commercial Open Source MCU, DSC, DSP SourceeC active Pic32, ARM Cortex
+(TI Stellaris, ST STM32, NXP LPC1700), SH2A, SH2AFPU, R32C, MIPS4K, {SHARC, Coldfire, TMS320, Altera
+NIOS, Xilinx Microblaze, Proprietary} [106]
+UNIX-RTR  ?  ?  ?  ? PDP-11  ?
+uSmartx  ? open sourcerce embedded  ? ARM7TDMI, AVR, H8 [107]
+µTasker proprietary Open-code. Free for non-commercial or with support license embedded activeivee
+Freescale Kinetis, Freescale Coldfire M522XX, Atmel AVR32, Atmel Same7X, TI Stellaris, NXP LPC2000,
+NXP LPC1700, ST-Micro STM32 (F1/F2/F4), ST-Micro STR91X, Freescale NE64, Windows (processor and
+peripheral simulation) [108]
+u-velOSity  ?  ? microkernel active  ? [109]
+velOSity  ?  ?  ? activeiveee Power Architecture, ARM/XScale, MIPS, x86/Pentium, ColdFire,
+BlackFinn, OMAP, DaVinci [110]
+VRTX  ?  ?  ?  ? ARM, MIPS, PowerPC, RISC                       [111]
+VxWorks proprietary  ? embedded active ARM, IA32, Intel 64,embedded MIPS, PowerPC, SH-4, StrongARM,
+xScale [112]
+Windows CE proprietary      Microsoft Shared Source embedded active x86, MIPS, ARM, SuperH [113]
+Xenomai GPLv2 Open Source general active x86, x86_64, PowerPC,                  ARM, Analog Devices
+Blackfin BF52x, BF53x, BF54x and BF56x [114]
+xPC TIarget proprietary closed real-time testing/embedded active x86 [10915]
+Y@SOS GNU LGPL Open Source embedded active Cortex-M3, STM32 [Source116]
+MontaVista Linux GNU GPL Open Source embedded active  ? [117]
+µnOS  ?  ?  ? historic Motorola 68k  ?
+uOS GNU GPL Open Source embedded active AVR, ARM, MIPS32, MSP430, Intel i386, Linux386 [MSP430118]
