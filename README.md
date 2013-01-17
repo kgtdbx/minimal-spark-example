@@ -15,15 +15,20 @@ fakedata.txt contains text from: http://en.wikipedia.org/wiki/List_of_real-time_
 
 If the above succeeds, you should see some output from Spark, and have a new folder called
 reduced.txt. The folder should contain text files called part-00000 and part-00001, with content
-like:
+like this:
 
-> (SOOS,(Project,1))  
-> (ARM7/9/11/Cortex,(M1/3,,1))  
-> (AMX,(RTOS,1))  
-> (HeartOS,(proprietary,1))  
-> (KolibriOS,(GNU,1))  
-> (REAL/32,(Proprietaryetary,1))  
-> (RTLinux,(GNU,1))
+> (free under T-License,(T-Kernel,1))
+> (modified Sleepycat license,(FunkOS,1))
+> (free,(Fusion RTOS,4))
+> (GPLv3,(Femto OS,3))
+> (Modified GNU GPL or proprietary,(ChibiOS/RT,1))
+> (BSD License,(Embox,2))
+> (Open Source and Commercial,(DSPnano RTOS,3))
+> (n/a,(OSEK,1))
+> (modified GNU GPL,(BeRTOS,4))
+> (varies,(ITRON, µITRON,1))
+
+The content shows a license name appearing in the list, lists one example OS with that license, and counts the number of OSes with the same license.
 
 ### Notes
 After get-spark.sh, you can safely delete spark-0.6.1\*. You will still be able to run the project.
