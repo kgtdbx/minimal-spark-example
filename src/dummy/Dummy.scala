@@ -8,18 +8,18 @@ object Dummy {
 
   def loadData(sc:SparkContext, file:String) = {
     sc.textFile(file).map(line =>{
-        val parts = line.split(" ")
-        (parts(0), parts(1))
+        val parts = line.split("\t")
+        (parts(0).trim, parts(1).trim)
       }
     )
   }
   
   def mapper(pair:(String, String)) = {
-    (pair._1, (pair._2, 1))
+    (pair._2, (pair._1, 1))
   }
   
   def reducer(one:(String, Int), two:(String, Int)) = {
-    ((one._1, 1))
+    ((one._1, one._2+two._2))
   }
   
   def main(args:Array[String]) {
