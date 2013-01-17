@@ -17,15 +17,15 @@ If the above succeeds, you should see some output from Spark, and have a new fol
 reduced.txt. The folder should contain text files called part-00000 and part-00001, with content
 like this:
 
-> (free under T-License,(T-Kernel,1))
-> (modified Sleepycat license,(FunkOS,1))
-> (free,(Fusion RTOS,4))
-> (GPLv3,(Femto OS,3))
-> (Modified GNU GPL or proprietary,(ChibiOS/RT,1))
-> (BSD License,(Embox,2))
-> (Open Source and Commercial,(DSPnano RTOS,3))
-> (n/a,(OSEK,1))
-> (modified GNU GPL,(BeRTOS,4))
+> (free under T-License,(T-Kernel,1))  
+> (modified Sleepycat license,(FunkOS,1))  
+> (free,(Fusion RTOS,4))  
+> (GPLv3,(Femto OS,3))  
+> (Modified GNU GPL or proprietary,(ChibiOS/RT,1))  
+> (BSD License,(Embox,2))  
+> (Open Source and Commercial,(DSPnano RTOS,3))  
+> (n/a,(OSEK,1))  
+> (modified GNU GPL,(BeRTOS,4))  
 > (varies,(ITRON, µITRON,1))
 
 The content shows a license name appearing in the list, lists one example OS with that license, and counts the number of OSes with the same license.
